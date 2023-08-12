@@ -1,1 +1,16 @@
 /* your code */
+body{
+	font-family:sans-serif;
+	font-size:10px;
+}
+.th{
+	background-color:lightcoral;
+	padding-right:70px;
+	color:white;
+	
+}
+.tr2{
+	background-color:lightgray;
+
+}
+
